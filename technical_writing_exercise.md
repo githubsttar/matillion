@@ -6,7 +6,7 @@ Matillion, the [Data Productivity Cloud](https://www.matillion.com/blog/how-to-b
 
 Its user-friendly interface and powerful capabilities make it an essential tool for data engineers, analysts, and IT professionals aiming to derive actionable insights and drive data-driven decision-making.
 
-In this blog, we'll show you how to create an account with Matillion.
+In this blog, we'll show you how to create an account with Matillion. There's also a [video tutorial](https://matillion.wistia.com/medias/zh57mryjl8) if you prefer.
 
 ### Register on the Matillion Hub
 
@@ -41,4 +41,13 @@ Finally, you need to select a data platform. For the purposes of this tutorial, 
 
 ![matillion_registration_complete](images/matillion_registration_complete.png)
 
-You've completed the registration process of the Matillion Hub and your 14-day free trial has now started.
+Congratulations on completing the registration process of the Matillion Hub. Your 14-day free trial has now started.
+
+> ##### Next Steps
+>
+> - To further explore Matillion and make the most of your 14-day free trial, you might find the following resources helpful:
+>
+> [Designer User Interface]() - Get familiar with the Designer User Interface and essential functionalities.
+> [Designer Overview](https://docs.matillion.com/data-productivity-cloud/designer/docs/designer-overview/) - Understand how to create your own complex ELT pipeline workflows.
+> [Create a Matillion ETL instance](https://docs.matillion.com/metl/docs/matillion-etl-instance-creation/#max-environments) - Learn how to create a Matillion ETL instance in the Hub.
+> [Matillion Academy](https://academy.matillion.com/certifications) - Take your data skills to the next level with Matillion Academy. Here, you'll find training videos, how-to guides and everything you need to become a Matillion Subject Matter Expert.
