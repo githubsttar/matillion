@@ -7,3 +7,7 @@ Matillion, the [Data Productivity Cloud](https://www.matillion.com/blog/how-to-b
 Its user-friendly interface and powerful capabilities make it an essential tool for data engineers, analysts, and IT professionals aiming to derive actionable insights and drive data-driven decision-making.
 
 In this blog, we'll show you how to create an account with Matillion.
+
+### Register on the Matillion Hub
+
+![matillion_article_header](images/matillion_signup.png)
