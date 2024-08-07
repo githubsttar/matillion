@@ -14,10 +14,14 @@ In this blog, we'll show you how to create an account with Matillion.
 
 To begin, go to [Matillion Hub](https://hub.matillion.com/) and register an account. Then you'll need to verify your email address to complete the sign up process and activate your account.
 
+### Create Profile
+
 ![matillion_article_header](images/matillion_setup_profile.png)
 
 Once you've activated your account, you'll be redirected to a page that looks like the one above. The first thing to do is to create your profile. Use the dropdown input form to select your options and click continue to progress to the next step where you'll enter your name, job title and company name.
 
 > Note that entering your phone number is optional.
+
+### Set Up Account
 
 ![matillion_article_header](images/matillion_setup_account.png)
