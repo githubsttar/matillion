@@ -22,7 +22,7 @@ Once you've verified your email, you'll be redirected to a page that looks like 
 
 > Note that entering your phone number is optional.
 
-Click continue again.
+Click continue.
 
 ### Set Up Account
 
@@ -35,7 +35,7 @@ Now, select the region where you want your matillion account to be created and c
 ![matillion_select_a_data_platform](images/matillion_select_a_data_platform.png)
 
 Finally, you need to select a data platform. For the purposes of this tutorial, we'll be using the
-\*\*Matillion trial warehouse\*\* platform as there's no setup required. If it's not already selected then select it and click continue.
+**Matillion trial warehouse** platform as there's no setup required. If it's not already selected then select it and click continue.
 
 > The process of preparing your trial warehouse will take a few minutes, it's important you remain on the page whilst your warehouse completes configuration.
 
