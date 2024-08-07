@@ -47,7 +47,7 @@ Congratulations on completing the registration process of the Matillion Hub. You
 >
 > - To further explore Matillion and make the most of your 14-day free trial, you might find the following resources helpful:
 
-[Designer User Interface](https://docs.matillion.com/data-productivity-cloud/designer/docs/designer-overview/) - Get familiar with the Designer User Interface and essential functionalities.
+[Designer User Interface](https://docs.matillion.com/data-productivity-cloud/designer/docs/designer-ui-basics/) - Get familiar with the Designer User Interface and essential functionalities.
 
 [Designer Overview](https://docs.matillion.com/data-productivity-cloud/designer/docs/designer-overview/) - Understand how to create your own complex ELT pipeline workflows.
 
