@@ -48,6 +48,9 @@ Congratulations on completing the registration process of the Matillion Hub. You
 > - To further explore Matillion and make the most of your 14-day free trial, you might find the following resources helpful:
 
 [Designer User Interface]() - Get familiar with the Designer User Interface and essential functionalities.
+
 [Designer Overview](https://docs.matillion.com/data-productivity-cloud/designer/docs/designer-overview/) - Understand how to create your own complex ELT pipeline workflows.
+
 [Create a Matillion ETL instance](https://docs.matillion.com/metl/docs/matillion-etl-instance-creation/#max-environments) - Learn how to create a Matillion ETL instance in the Hub.
+
 [Matillion Academy](https://academy.matillion.com/certifications) - Take your data skills to the next level with Matillion Academy. Here, you'll find training videos, how-to guides and everything you need to become a Matillion Subject Matter Expert.
