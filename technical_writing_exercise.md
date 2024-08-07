@@ -4,7 +4,7 @@
 
 Matillion, the [Data Productivity Cloud](https://www.matillion.com/blog/how-to-build-a-transformation-pipeline-in-the-data-productivity-cloud), is a comprehensive platform designed to enhance data management and productivity for businesses. It provides robust tools for ETL, enabling organizations to efficiently process and analyze their data across various sources. By offering a cloud-native environment, Matillion ensures scalability, flexibility, and performance, allowing companies to seamlessly handle large volumes of data.
 
-Its user-friendly interface and powerful capabilities make it an essential tool for data engineers, analysts, and IT professionals aiming to derive actionable insights and drive data-driven decision-making.
+Its user-friendly interface and powerful capabilities make it an essential tool for data engineers, analysts, and IT professionals aiming to derive actionable insights that drive data-driven decisions.
 
 In this blog, we'll show you how to create an account with Matillion. There's also a [video tutorial](https://matillion.wistia.com/medias/zh57mryjl8) if you prefer.
 
