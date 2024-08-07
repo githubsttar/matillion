@@ -18,6 +18,6 @@ To begin, go to [Matillion Hub](https://hub.matillion.com/) and register an acco
 
 Once you've activated your account, you'll be redirected to a page that looks like the one above. The first thing to do is to create your profile. Use the dropdown input form to select your options and click continue to progress to the next step where you'll enter your name, job title and company name.
 
-_Note that entering your phone number is optional._
+> Note that entering your phone number is optional.
 
 ![matillion_article_header](images/matillion_setup_account.png)
